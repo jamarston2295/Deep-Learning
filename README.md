@@ -1,1 +1,1 @@
-# Deep-Learning-CW3-ResNet-CIFAR
+# Deep-Learning-CW3
